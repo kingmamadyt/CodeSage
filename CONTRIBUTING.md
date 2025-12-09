@@ -29,16 +29,27 @@ Thank you for your interest in contributing to CodeSage! This document provides 
 
 ### Pull Requests
 
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/your-feature-name`
-3. **Make your changes**:
+#### For External Contributors
+
+1. **Fork the repository** (click "Fork" button on GitHub)
+2. **Clone your fork**:
+```bash
+git clone https://github.com/YOUR_USERNAME/CodeSage.git
+cd CodeSage
+```
+3. **Add upstream remote** (to sync with original repo):
+```bash
+git remote add upstream https://github.com/albonidrizi/CodeSage.git
+```
+4. **Create a feature branch**: `git checkout -b feature/your-feature-name`
+5. **Make your changes**:
    - Follow existing code style
    - Add tests for new functionality
    - Update documentation as needed
-4. **Commit your changes**: `git commit -m 'feat: add amazing feature'`
+6. **Commit your changes**: `git commit -m 'feat: add amazing feature'`
    - Use [Conventional Commits](https://www.conventionalcommits.org/)
-5. **Push to your fork**: `git push origin feature/your-feature-name`
-6. **Open a Pull Request**
+7. **Push to your fork**: `git push origin feature/your-feature-name`
+8. **Open a Pull Request** from your fork to the main repository
 
 ### Commit Message Format
 
