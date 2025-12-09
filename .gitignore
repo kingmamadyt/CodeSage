@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+target/
+.mvn/
+*.class
+*.jar
+!backend/target/*.jar
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+*.war
+*.ear
+
+# Test coverage
+coverage/
+.nyc_output/
+target/site/
+
+# GitHub App private key
+*.pem
+
+# Docker
+.dockerignore
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
