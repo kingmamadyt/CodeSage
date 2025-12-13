@@ -1,3 +1,43 @@
+# Ignore local scripts folder
+/scripts/
+
+# Sensitive files and secrets
+.env
+*.env
+*.key
+*.pem
+*.pfx
+*.cer
+*.crt
+*.pub
+.azure/
+.ssh/
+
+# App configs not meant for public
+backend/src/main/resources/application-dev.properties
+# If application.properties contains secrets, uncomment next line
+# backend/src/main/resources/application.properties
+
+# Build artifacts
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+*.tmp
+~*
+# Ignore local scripts folder
+/scripts/
+
+# Optional: OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
 # Dependencies
 node_modules/
 target/
